@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Scuffed Itunes
+  </h1>
+  <div
+    className="mb-3 input-group"
+  >
+    <input
+      aria-describedby="basic-addon2"
+      aria-label="Recipient's username"
+      className="form-control"
+      defaultValue=""
+      onChange={[Function]}
+    />
+    <button
+      className="btn btn-outline-secondary"
+      disabled={false}
+      id="button-addon2"
+      onClick={[Function]}
+      type="button"
+    >
+      Button
+    </button>
+  </div>
+  <ul
+    className="mb-3 header nav nav-tabs"
+    onKeyDown={[Function]}
+    role="tablist"
+  >
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-home"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="home"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-home"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        Music
+      </button>
+    </li>
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-movies"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="movies"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-movies"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        Movies
+      </button>
+    </li>
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-podcasts"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="podcasts"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-podcasts"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        Podcasts
+      </button>
+    </li>
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-ebooks"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="ebooks"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-ebooks"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        eBooks
+      </button>
+    </li>
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-tvshows"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="tvshows"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-tvshows"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        TV Shows
+      </button>
+    </li>
+    <li
+      className="nav-item"
+      role="presentation"
+    >
+      <button
+        aria-controls="uncontrolled-tab-example-tabpane-Saved"
+        aria-selected={false}
+        className="nav-link"
+        data-rr-ui-event-key="Saved"
+        disabled={false}
+        id="uncontrolled-tab-example-tab-Saved"
+        onClick={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        Saved
+      </button>
+    </li>
+  </ul>
+  <div
+    className="tab-content"
+  >
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-home"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-home"
+      role="tabpanel"
+    />
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-movies"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-movies"
+      role="tabpanel"
+    />
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-podcasts"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-podcasts"
+      role="tabpanel"
+    />
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-ebooks"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-ebooks"
+      role="tabpanel"
+    />
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-tvshows"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-tvshows"
+      role="tabpanel"
+    />
+    <div
+      aria-labelledby="uncontrolled-tab-example-tab-Saved"
+      className="fade tab-pane"
+      id="uncontrolled-tab-example-tabpane-Saved"
+      role="tabpanel"
+    />
+  </div>
+</div>
+`;
