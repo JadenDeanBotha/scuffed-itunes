@@ -1,0 +1,12 @@
+{
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "description": "How to use the application\r     -   Once the application is open you will see the name of the application, the search bar, and a few tabs\r     -   Type whatever you want to search into the search bar and then press the button\r     -   navigate to one of the tabs by clicking on them and you will find all the information you need\r     -   You are also able to press the save button to save the item you wish to view later and then go to the save tab to find them all\r     -   You will then be able to delete items in your saved tab as you wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=FALSE npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "author": "",
+  "license": "ISC"
+}
